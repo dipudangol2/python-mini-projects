@@ -2,9 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 
-
 job_lists = {}
-
 
 def get_desc(url):
     html_text = requests.get(url).text
@@ -36,11 +34,10 @@ soup = BeautifulSoup(html_text, "lxml")
 
 ul = soup.find("ul", class_="new-joblist")
 
-# print(ul)
-
 jobs = ul.find_all("li", class_="clearfix job-bx wht-shd-bx")
-print(len(jobs))
+
 i = 1
+
 for job in jobs:
     job_dict = {}
     job_dict["company"] = job.find("h3", class_="joblist-comp-name").text.strip()
@@ -65,6 +62,7 @@ for job in jobs:
     i += 1
 
 json_obj = json.dumps(job_lists, indent=4)
+
 with open("temp.json", "w") as j:
     j.write(json_obj)
     j.close()
