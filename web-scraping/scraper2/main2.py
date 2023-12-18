@@ -1,8 +1,37 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+import csv
+
+
+def write_to_csv(job_list):
+    try:
+        with open("job_lists.csv", "w") as csv_file:
+            writer = csv.writer(csv_file)
+            header = [
+                "company",
+                "job",
+                "required_experience",
+                "location",
+                "key_skills",
+                "description",
+            ]
+            writer.writerow(header)
+            for i in range(1, (len(job_lists) + 1)):
+                new_row = []
+                new_row.append(job_lists[i]["company"])
+                new_row.append(job_lists[i]["job"])
+                new_row.append(job_lists[i]["required_experience"])
+                new_row.append(job_lists[i]["location"])
+                new_row.append(job_lists[i]["key_skills"])
+                new_row.append(job_lists[i]["description"])
+                writer.writerow(new_row)
+    except Exception as e:
+        print(f"Error :{e}")
+
 
 job_lists = {}
+
 
 def get_desc(url):
     html_text = requests.get(url).text
@@ -15,10 +44,7 @@ def get_desc(url):
     )
     desc_text = ""
     string = desc_divs[0].get_text(separator="\n", strip=True)
-    start_index = string.find("job_description")
-    end_index = start_index + len("job_description ")
-    mod_string = string[:start_index] + string[end_index:] + "\n\n\n"
-    desc_text += mod_string
+    desc_text += string + "\n"
     for div in desc_divs:
         for li_tags in div.select("div.job-basic-info li.clearfix"):
             desc_text += li_tags.get_text(separator=" ", strip=True) + "\n"
@@ -66,3 +92,5 @@ json_obj = json.dumps(job_lists, indent=4)
 with open("temp.json", "w") as j:
     j.write(json_obj)
     j.close()
+
+write_to_csv(job_lists)
