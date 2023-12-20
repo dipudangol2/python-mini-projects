@@ -77,12 +77,11 @@ for job in jobs:
     job_dict["location"] = job.select("ul.top-jd-dtl li span")[0].find(
         string=True, recursive=False
     )
-    skill = (
+    key_skill = (
         job.select("ul.list-job-dtl li span.srp-skills")[0]
         .get_text(separator=" ", strip=True)
-        .split(" , ")
+        .replace(" ", "")
     )
-    key_skill = ", ".join(skill)
     job_dict["key_skills"] = key_skill
     job_lists[i] = job_dict
     i += 1

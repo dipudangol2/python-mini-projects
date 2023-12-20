@@ -2,3 +2,7 @@
 !*.*
 env/
 web-scraping/scraper2/practice
+web-scraping/*.json
+web-scraping/*.csv
+web-scraping/*/*.json
+web-scraping/*/*.csv

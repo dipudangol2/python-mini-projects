@@ -1,5 +1,5 @@
 company,job,required_experience,location,key_skills,description
-east india securities ltd.,Python Engineer,2 - 5 yrs,Kolkata,"python,  hadoop ,  machine learning","Job Description
+east india securities ltd.,Python Engineer,2 - 5 yrs,Kolkata,"python ,hadoop,machine learning","Job Description
 job_description
 2  years of experience working with python
 Strong analytical skills
@@ -12,7 +12,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-DREAMAJAX TECHNOLOGIES,PYTHON DEVELOPER,4 - 7 yrs,Bengaluru / Bangalore,"python,  django ,  api ,  sql ,  nosql","Job Description
+DREAMAJAX TECHNOLOGIES,PYTHON DEVELOPER,4 - 7 yrs,Bengaluru / Bangalore,"python ,django,api,sql,nosql","Job Description
 PYTHON DEVELOPER B.E / B.Tech / MCA / M.Sc., or equivalent with 4  years of Strong Experience as a Python developer
 Strong hands on experience on Core Python, Django and Flask frameworks.
 Strong experience using Web Services and API's in python.
@@ -26,7 +26,7 @@ Specialization: Software Engineer
 Qualification: MCA/ PGDCA BE/ B.Tech (Engineering)
 Employment Type: Full Time
 "
-INFINITY GROUP,PYTHON Developer,2 - 5 yrs,Noida/Greater Noida,"python,  css ,  django ,  html ,  bootstrap","Job Description
+INFINITY GROUP,PYTHON Developer,2 - 5 yrs,Noida/Greater Noida,"python ,css,django,html,bootstrap","Job Description
 Description
 Position: PYTHON Developer
 No. of Requirement: 02
@@ -56,7 +56,7 @@ Specialization: Software Engineer
 Qualification: MCA/ PGDCA BCA (Computer Application)
 Employment Type: Full Time
 "
-InnOvator Web Solutions Pvt.Ltd.,Python Developer,5 - 8 yrs,Mumbai,"rest , python,  django ,  web developer ,  mysql ,  api","Job Description
+InnOvator Web Solutions Pvt.Ltd.,Python Developer,5 - 8 yrs,Mumbai,"rest, python ,django,web developer,mysql,api","Job Description
 Job Category: Development
 Job Type: Full Time
 Job Location: Malad (W)
@@ -72,7 +72,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-pearl global solutions,Python Developer,4 - 7 yrs,Cochin/ Kochi/ Ernakulam,"python,  database ,  django ,  team player ,  sql","Job Description
+pearl global solutions,Python Developer,4 - 7 yrs,Cochin/ Kochi/ Ernakulam,"python ,database,django,team player,sql","Job Description
 Python Developer  Django Job Type : Full time, Employee
 Experience : 4  years of experience in Python.
 Education : B.Tech/MCA
@@ -87,7 +87,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-AxisTechnolabs,Python - Odoo,0 - 1 yrs,Ahmedabad,"python,  django ,  it skills ,  html5 ,  api ,  jquery","Job Description
+AxisTechnolabs,Python - Odoo,0 - 1 yrs,Ahmedabad,"python ,django,it skills,html5,api,jquery","Job Description
 Responsibilities : We are looking for Freshers who want to grow thier career with Axis Technolabs
 Suffering from finding dream jobs
 IT skills Requires for Jobs
@@ -111,7 +111,7 @@ Specialization: Software Engineer
 Qualification: MCA/ PGDCA BCA (Computer Application)
 Employment Type: Full Time
 "
-Ivan Infotech Pvt. Ltd.,Python Developer,2 - 5 yrs,Kolkata,"rest , python,  security ,  debugging","Job Description
+Ivan Infotech Pvt. Ltd.,Python Developer,2 - 5 yrs,Kolkata,"rest, python ,security,debugging","Job Description
 We are looking for a Python Developer to join our development team. Python Developer responsibilities include writing and testing code, debugging programs and integrating applications with third-party web services. To be successful in this role, you should have experience using server-side logic and work well in a team.
 Responsibilities Write effective, scalable code
 Develop back-end components to improve responsiveness and overall performance
@@ -132,7 +132,34 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-Sourcedesk Global Private Limited,Python Developer,3 - 15 yrs,Kolkata,"html5 ,  storage , python,  javascript ,  django ,  infrastructure","Job Description
+CONNECTING 2 WORK,Python Developer,5 - 10 yrs,Thiruvananthapuram,"python ,storage,django,testing tools,debugging","Job Description
+Job Description We are looking for an experienced Python developer to join our engineering team and help us create dynamic software applications for our clients. In this role, you will be responsible for writing and testing scalable code, developing back-end components, and integrating user-facing elements in collaboration with front-end developers.
+To be successful as a Python developer, you should possess in-depth knowledge of object-relational mapping, experience with server-side logic, and above-average knowledge of Python programming. Ultimately, a top-class Python developer is able to design highly responsive web applications that perfectly meet the needs of the client.
+Responsibilities: Coordinating with development teams to determine application requirements.
+Writing scalable code using Python programming language.
+Testing and debugging applications.
+Developing back-end components.
+Integrating user-facing elements using server-side logic.
+Assessing and prioritizing client feature requests.
+Integrating data storage solutions.
+Coordinating with front-end developers.
+Reprogramming existing databases to improve functionality.
+Developing digital tools to monitor online traffic.
+Requirements: Bachelors degree in computer science, computer engineering, or related field.
+1.5- 3 years of experience as a Python developer.
+Expert knowledge of Python and related frameworks including Django and Flask.
+A deep understanding and multi-process architecture and the threading limitations of Python.
+Familiarity with server-side templating languages including Jinja 2 and Mako.
+Ability to integrate multiple data sources into a single system.
+Familiarity with testing tools.
+Ability to collaborate on projects and work independently when required.
+Job Function: IT Software : Software Products & Services
+Industry: Consulting Services
+Specialization: Software Engineer
+Qualification: Any Graduate
+Employment Type: Full Time
+"
+Sourcedesk Global Private Limited,Python Developer,3 - 15 yrs,Kolkata,"html5,storage, python ,javascript,django,infrastructure","Job Description
 Sourcedesk Global is looking for an experienced Python developer to join our engineering team and help us create dynamic software applications for our clients. To be successful as a Python developer, you should possess in-depth knowledge of object-relational mapping, experience with server-side logic, and above-average knowledge of Python programming. Ultimately, a top-class Python developer is able to design highly responsive web-applications that perfectly meet the needs of the client.
 We are offering superb career growth opportunities, great compensation and benefits.
 Python Developer Responsibilities:
@@ -162,7 +189,7 @@ Specialization: Software Engineer
 Qualification: ME/ M.Tech./ MS (Engg/ Sciences) Any Graduate
 Employment Type: Full Time
 "
-glan management consultancy pvt. ltd.,Python Developer,5 - 8 yrs,Noida/Greater Noida,"python,  rdbms ,  mysql ,  cloud computing ,  docker ,  sql","Job Description
+glan management consultancy pvt. ltd.,Python Developer,5 - 8 yrs,Noida/Greater Noida,"python ,rdbms,mysql,cloud computing,docker,sql","Job Description
 Job Description:
 We are hiring a Python Developer with minimum 4 to 5 years of experience in building highly scalable solutions based on a micro services architecture, you will be working with a highly skilled cross-functional team to enhance the core-banking platform.
 5  years of experience in software development. (Mandatory)
@@ -177,34 +204,65 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-CONNECTING 2 WORK,Python Developer,5 - 10 yrs,Thiruvananthapuram,"python,  storage ,  django ,  testing tools ,  debugging","Job Description
-Job Description We are looking for an experienced Python developer to join our engineering team and help us create dynamic software applications for our clients. In this role, you will be responsible for writing and testing scalable code, developing back-end components, and integrating user-facing elements in collaboration with front-end developers.
-To be successful as a Python developer, you should possess in-depth knowledge of object-relational mapping, experience with server-side logic, and above-average knowledge of Python programming. Ultimately, a top-class Python developer is able to design highly responsive web applications that perfectly meet the needs of the client.
-Responsibilities: Coordinating with development teams to determine application requirements.
-Writing scalable code using Python programming language.
-Testing and debugging applications.
-Developing back-end components.
-Integrating user-facing elements using server-side logic.
-Assessing and prioritizing client feature requests.
-Integrating data storage solutions.
-Coordinating with front-end developers.
-Reprogramming existing databases to improve functionality.
-Developing digital tools to monitor online traffic.
-Requirements: Bachelors degree in computer science, computer engineering, or related field.
-1.5- 3 years of experience as a Python developer.
-Expert knowledge of Python and related frameworks including Django and Flask.
-A deep understanding and multi-process architecture and the threading limitations of Python.
-Familiarity with server-side templating languages including Jinja 2 and Mako.
-Ability to integrate multiple data sources into a single system.
-Familiarity with testing tools.
-Ability to collaborate on projects and work independently when required.
+CANVERA TRADERS PRIVATE LIMITED,Python Developer,5 - 8 yrs,Bengaluru / Bangalore,"python ,rdbms,javascript,sql,spring,spring boot,django,java","Job Description
+Role & Responsibilities:
+Solid experience as Backend Developer of at least 5 years in total: out of which at least last 2 years in Python.
+Experience with Python frameworks (e.g. Django, Flask)
+Experience developing microservices in the cloud.
+Analyze, design and develop scalable services and components.
+Design, implement, test, and support internal and external APIs and services.
+Build efficient back-end features in Python.
+Integrate front-end components into applications.
+Manage testing and bug fixes.
+Prepare technical documentation.
+Collaborate with UX/UI designers to implement design into the code.
+Should have knowledge of deployment to local and cloud servers.
+Mentoring junior team members.
+Implement software enhancements and suggest improvements.
+Skills Required:
+Understanding of RDBMS and SQL
+Knowledge of JavaScript is a plus.
+Python APIs, the remaining experience can be in Python/Java.
+Experience developing and working with RESTful web services is required. Spring Core, Spring Boot experience is a big plus.
 Job Function: IT Software : Software Products & Services
-Industry: Consulting Services
+Industry: IT-Hardware/Networking,  Telecom
 Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-Doodleblue Innovations Pvt Ltd,Python Developer,0 - 3 yrs,Chennai,"python,  database ,  django ,  git ,  html5 ,  debugging ,  javascript ,  jquery","Job Description
+Wing Global IT Services,Python Developer,2 - 5 yrs,Panchkula,"spring boot, python ,java,django,jpa,hibernate","Job Description
+Candidates should be completed Graduation at least.
+Strong skills in java coding with spring boot & hibernate/JPA.
+Good knowledge of Django framework.
+Server knowledge will be an adding skill.
+Candidate should be excellent in Python coding with deadlines.
+We are looking for at least 2 years experience for this job.
+We are looking for a candidate who can work in a long run.
+Job Function: IT Software : Software Products & Services
+Industry: IT-Hardware/Networking,  Telecom
+Specialization: Software Engineer
+Qualification: Any Graduate
+Employment Type: Full Time
+"
+art technology and software india pvt ltd,Python Developer,2 - 3 yrs,Cochin/ Kochi/ Ernakulam,"rest, python ,database,django,api","Job Description
+Responsibilities In-depth knowledge of Python and Django framework 2  yr experience - Must Have
+API design based on REST
+Build scalable and performance application with large dataset
+Experienced at Database design/model - Must Have
+Develop back-end core architecture concepts.
+Test-driven development (TDD): Unit, behavioral, and functional testing / Agile Development - sprints
+Worked seamlessly with development team in US
+Understanding of AWS services.
+Quick learner to work on new projects / technology
+Skill Set Back-end: Python with Django framework (REST or GraphQL)
+Database: Postgres.
+Job Function: IT Software : Software Products & Services
+Industry: IT-Hardware/Networking,  Telecom
+Specialization: Software Engineer
+Qualification: Any Graduate
+Employment Type: Full Time
+"
+Doodleblue Innovations Pvt Ltd,Python Developer,0 - 3 yrs,Chennai,"python ,database,django,git,html5,debugging,javascript,jquery","Job Description
 Python Developer Hands on experience in Python Development is a must
 Experience in Django and flask framework
 Good understanding of server-side templating languages like jinja
@@ -217,29 +275,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-AxisTechnolabs,Python Developer,0 - 1 yrs,Ahmedabad,"python,  css ,  user interaction ,  bootstrap ,  openerp ,  database ,  xml ,  oops ,  html","Job Description
-Responsibilities : We are offering you Paid odoo - python internship for 3 months and after completion, you will get a job on your hand,100 PERCENT  Job Placement, We suggest to start your career with odoo ERP developer. Why choose odoo to grow your career with becoming an odoo developer?
-Odoo ERP is emerging faster than any other propriety ERP owing to the fact that it is Open Source. Open-Source nature of Odoo platform is going to make the most impact in the developing market. The future of Odoo is exceptionally good with more than 2 million users in the world. Lively user interaction in development and usage is assured to boost the Odoo platform in the coming years.
-Odoo uses Python programming language a powerful high-level object-oriented programming language, giving Odoo a better chance over other competitors.
-Axis Technolabs also provides opportunities for those who are aspiring to build a career in odoo. For more information feel free contact us
-Odoo Internship Includes:
-Design and develop Odoo(OpenERP) apps(new module Implementation, customization)
-Create Python and Odoo(OpenERP) framework of existing apps
-Develop applications which make any kind of effect in peoples lives
-Track record of implementing well designed mobile applications
-Coordinate with senior developers to design and develop real time web application and ERP software
-Required Skills and Qualification
-Should be willing to learn Odoo & Open Source ERP System
-Should have quick grasping power
-Basic Understanding of Xmp, Database Python, Oops Concepts Self Motivated and a willingness to learn
-Must have degree of B.E/B.Tech/MCA/BCA/ MSC-IT
-Job Function: IT Software : Software Products & Services
-Industry: IT-Hardware/Networking,  Telecom
-Specialization: Software Engineer
-Qualification: MCA/ PGDCA BCA (Computer Application)
-Employment Type: Full Time
-"
-WBC Software Lab,Python Developer,2 - 5 yrs,Chennai,"python,  git ,  rest api ,  linux ,  mobile ,  mongodb ,  docker","Job Description
+WBC Software Lab,Python Developer,2 - 5 yrs,Chennai,"python ,git,rest api,linux,mobile,mongodb,docker","Job Description
 JOB TITLE : Python Developer Duties and Responsibilities : A minimum of 2-5 years work experience in software development using Python Flask and Angular
 Solid understanding and experience in developing REST API using Python Flask
 Proficiency in developing web applications using Flask and AngularExperience in MongoDB
@@ -255,7 +291,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-NuageBiz.Tech,Python Developer,2 - 5 yrs,Noida/Greater Noida,"python,  mobile ,  team player ,  svn ,  security ,  git ,  software engineering","Job Description
+NuageBiz.Tech,Python Developer,2 - 5 yrs,Noida/Greater Noida,"python ,mobile,team player,svn,security,git,software engineering","Job Description
 This is an opportunity for a dynamic professional with 2-4 years of IT experience including 2 years in Python Language. We want you to be a self-driven go-getter, with a strong appetite for learning and an analytical mind. You must have an eye for detail, should be able to think outside the box, and be willing to walk the extra mile to make it happen.
 This role offers immense growth opportunities, as well as a unique opportunity of working with a like-minded team where you can see your work and contributions being applied!
 The individual should exhibit the following:
@@ -284,7 +320,29 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-pegasus knowledge solutions india pvt ltd.,Python Developer,0 - 3 yrs,Bengaluru / Bangalore,"python,  css ,  django ,  java ,  html ,  bootstrap ,  api ,  jquery ,  sql","Job Description
+AxisTechnolabs,Python Developer,0 - 1 yrs,Ahmedabad,"python ,css,user interaction,bootstrap,openerp,database,xml,oops,html","Job Description
+Responsibilities : We are offering you Paid odoo - python internship for 3 months and after completion, you will get a job on your hand,100 PERCENT  Job Placement, We suggest to start your career with odoo ERP developer. Why choose odoo to grow your career with becoming an odoo developer?
+Odoo ERP is emerging faster than any other propriety ERP owing to the fact that it is Open Source. Open-Source nature of Odoo platform is going to make the most impact in the developing market. The future of Odoo is exceptionally good with more than 2 million users in the world. Lively user interaction in development and usage is assured to boost the Odoo platform in the coming years.
+Odoo uses Python programming language a powerful high-level object-oriented programming language, giving Odoo a better chance over other competitors.
+Axis Technolabs also provides opportunities for those who are aspiring to build a career in odoo. For more information feel free contact us
+Odoo Internship Includes:
+Design and develop Odoo(OpenERP) apps(new module Implementation, customization)
+Create Python and Odoo(OpenERP) framework of existing apps
+Develop applications which make any kind of effect in peoples lives
+Track record of implementing well designed mobile applications
+Coordinate with senior developers to design and develop real time web application and ERP software
+Required Skills and Qualification
+Should be willing to learn Odoo & Open Source ERP System
+Should have quick grasping power
+Basic Understanding of Xmp, Database Python, Oops Concepts Self Motivated and a willingness to learn
+Must have degree of B.E/B.Tech/MCA/BCA/ MSC-IT
+Job Function: IT Software : Software Products & Services
+Industry: IT-Hardware/Networking,  Telecom
+Specialization: Software Engineer
+Qualification: MCA/ PGDCA BCA (Computer Application)
+Employment Type: Full Time
+"
+pegasus knowledge solutions india pvt ltd.,Python Developer,0 - 3 yrs,Bengaluru / Bangalore,"python ,css,django,java,html,bootstrap,api,jquery,sql","Job Description
 Python Developer
 Primary skill:  Strong Python skills along with web frameworks such as Django/Flask
 HTML/CSS, knowledge in JS based frameworks such as JQuery/React/Angular/Bootstrap etc.
@@ -299,22 +357,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-gammastack indore,Python Developer,0 - 3 yrs,Indore,"python,  database ,  django ,  rest api ,  oops ,  machine learning ,  artificial intelligence","Job Description
-Youre Awesome at: Candidates should have experience in any one of python web frameworks like django, flask, bottle etc
-Candidates should have experience in rest api frameworks
-Candidates should have experience in writing test cases for python applications.
-Candidates should have a basic understanding of oops and database concepts
-Good communication skills.
-Leading capabilities as per the exp.
-Additional Brownie points: Experience with analytics, Datascience, Machine learning, artificial intelligence is plus.
-Any front-end frameworks like Angular or ReactJS or VueJS experience is plus.
-Job Function: IT Software : Software Products & Services
-Industry: IT-Hardware/Networking,  Telecom
-Specialization: Software Engineer
-Qualification: Any Graduate
-Employment Type: Full Time
-"
-Techasoft Pvt Ltd,Python Developer,0 - 3 yrs,Bengaluru / Bangalore,"python,  javascript ,  docker ,  django ,  postgresql ,  oops ,  mysql ,  mongodb ,  opencv","Job Description
+Techasoft Pvt Ltd,Python Developer,0 - 3 yrs,Bengaluru / Bangalore,"python ,javascript,docker,django,postgresql,oops,mysql,mongodb,opencv","Job Description
 - Troubleshoot, test and maintain the core product software and databases to ensure strong optimization and functionality
 - Contribute in all phases of the development lifecycle
 - Follow industry best practices
@@ -341,7 +384,31 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-Fluper Limited,Python Developer,2 - 7 yrs,Noida/Greater Noida,"c# , python,  virtual reality ,  mobile ,  augmented reality ,  opencv","Job Description
+gammastack indore,Python Developer,0 - 3 yrs,Indore,"python ,database,django,rest api,oops,machine learning,artificial intelligence","Job Description
+Youre Awesome at: Candidates should have experience in any one of python web frameworks like django, flask, bottle etc
+Candidates should have experience in rest api frameworks
+Candidates should have experience in writing test cases for python applications.
+Candidates should have a basic understanding of oops and database concepts
+Good communication skills.
+Leading capabilities as per the exp.
+Additional Brownie points: Experience with analytics, Datascience, Machine learning, artificial intelligence is plus.
+Any front-end frameworks like Angular or ReactJS or VueJS experience is plus.
+Job Function: IT Software : Software Products & Services
+Industry: IT-Hardware/Networking,  Telecom
+Specialization: Software Engineer
+Qualification: Any Graduate
+Employment Type: Full Time
+"
+AxisTechnolabs,Python developer,1 - 4 yrs,Ahmedabad,"python ,django,html5,team player,angularjs,javascript","Job Description
+Job Description :
+Responsibilities : - Having strong knowledge in Python framework (Django, Flask or Pyramid) - Having strong knowledge in javaScript/HTML5/CSS3 - SASS and LESS - Basic knowledge about ReactJs, AngularJS , NodeJS - Ability to work with object-relational mapping - Should be motivated self starter and a very good team player - Strong skill in problem-solving in application - Write effective, scalable code - Good client communication skills
+Job Function: IT Software : Software Products & Services
+Industry: IT-Hardware/Networking,  Telecom
+Specialization: Software Engineer
+Qualification: MCA/ PGDCA BCA (Computer Application)
+Employment Type: Full Time
+"
+Fluper Limited,Python Developer,2 - 7 yrs,Noida/Greater Noida,"c#, python ,virtual reality,mobile,augmented reality,opencv","Job Description
 Job Responsibilities Hands-on exposure to devices such as Microsoft HoloLens, HTC Vive, Oculus, Samsung Gear VR along with mobile based AR/VR solutions
 Strong proficiency with Opencv
 Knowledge of various AR/VR SDKs, C#
@@ -352,68 +419,7 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-AxisTechnolabs,Python developer,1 - 4 yrs,Ahmedabad,"python,  django ,  html5 ,  team player ,  angularjs ,  javascript","Job Description
-Job Description :
-Responsibilities : - Having strong knowledge in Python framework (Django, Flask or Pyramid) - Having strong knowledge in javaScript/HTML5/CSS3 - SASS and LESS - Basic knowledge about ReactJs, AngularJS , NodeJS - Ability to work with object-relational mapping - Should be motivated self starter and a very good team player - Strong skill in problem-solving in application - Write effective, scalable code - Good client communication skills
-Job Function: IT Software : Software Products & Services
-Industry: IT-Hardware/Networking,  Telecom
-Specialization: Software Engineer
-Qualification: MCA/ PGDCA BCA (Computer Application)
-Employment Type: Full Time
-"
-Wing Global IT Services,Python Developer,2 - 5 yrs,Panchkula,"spring boot , python,  java ,  django ,  jpa ,  hibernate","Job Description
-Candidates should be completed Graduation at least.
-Strong skills in java coding with spring boot & hibernate/JPA.
-Good knowledge of Django framework.
-Server knowledge will be an adding skill.
-Candidate should be excellent in Python coding with deadlines.
-We are looking for at least 2 years experience for this job.
-We are looking for a candidate who can work in a long run.
-Job Function: IT Software : Software Products & Services
-Industry: IT-Hardware/Networking,  Telecom
-Specialization: Software Engineer
-Qualification: Any Graduate
-Employment Type: Full Time
-"
-Cybage Software Pvt Ltd,Python Developer,4 - 7 yrs,"Gandhinagar,  Hyderabad/Secunderabad,  Pune","python,  html5 ,  javascript ,  nosql ,  docker ,  django ,  software developer ,  mongodb","Job Description
-Experience: 4  Years
-The key aspects of this role include:
-Design, build, and maintain scalable applications using Python.
-Contribute to the entire implementation process including driving the definition of improvements based on business need and architectural improvements.
-Act as a subject matter expert for Application Software developers and Engineers.
-Handle server-side code for a production platform and contribute to new features
-To be the right fit, you'll need:
-More than 4  years of experience as a software developer in Python, with knowledge of at least one Python web framework such as Django, Flask, etc.
-Good understanding of common design patterns and architecture principles to design reliable and Scalable applications
-Strong communication skills
-Knowledge of databases line NoSQL or MongoDB
-Good to have AWS and Docker or Web services
-Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
-Job Function: IT Software : Software Products & Services
-Industry: Software Services,  Internet/Dot com/ISP
-Specialization: Software Engineer
-Qualification: Any Graduate
-Employment Type: Full Time
-"
-art technology and software india pvt ltd,Python Developer,2 - 3 yrs,Cochin/ Kochi/ Ernakulam,"rest , python,  database ,  django ,  api","Job Description
-Responsibilities In-depth knowledge of Python and Django framework 2  yr experience - Must Have
-API design based on REST
-Build scalable and performance application with large dataset
-Experienced at Database design/model - Must Have
-Develop back-end core architecture concepts.
-Test-driven development (TDD): Unit, behavioral, and functional testing / Agile Development - sprints
-Worked seamlessly with development team in US
-Understanding of AWS services.
-Quick learner to work on new projects / technology
-Skill Set Back-end: Python with Django framework (REST or GraphQL)
-Database: Postgres.
-Job Function: IT Software : Software Products & Services
-Industry: IT-Hardware/Networking,  Telecom
-Specialization: Software Engineer
-Qualification: Any Graduate
-Employment Type: Full Time
-"
-Root Info Solutions,Python Developer,2 - 3 yrs,"Delhi,  Delhi/NCR","python 2 , python 3 ,   django ,   javascript ,   html ,   postgresql  /  mysql ,   rest api ,   celery rabbitmq ,   redis.  ,  css ,  oop","Job Description
+Root Info Solutions,Python Developer,2 - 3 yrs,"Delhi,  Delhi/NCR","python 2, python 3, django, javascript, html, postgresql/mysql, rest api, celery rabbitmq, redis. ,css,oop","Job Description
 New Delhi, India
 Python Developer
 Job Role :- Python Developer
@@ -439,7 +445,7 @@ Specialization: Software Engineer
 Qualification: BE/ B.Tech (Engineering)
 Employment Type: Full Time
 "
-CONNECTING 2 WORK,Python Developer,0 - 3 yrs,Thiruvananthapuram,"security compliance , python,  html5 ,  mobile ,  javascript ,  database ,  django ,  debugging","Job Description
+CONNECTING 2 WORK,Python Developer,0 - 3 yrs,Thiruvananthapuram,"security compliance, python ,html5,mobile,javascript,database,django,debugging","Job Description
 Job Description Job description
 Expert in Python, with knowledge of at least one Python web framework Django
 Familiarity with some ORM (Object Relational Mapper) libraries  Able to integrate multiple data sources and databases into one system
@@ -460,38 +466,22 @@ Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
 "
-RAYVAT Outsourcing,Python Developer,0 - 2 yrs,Gandhinagar,"python,  html5 ,  svn ,  machine learning ,  javascript ,  security ,  database ,  django ,  git ,  mysql ,  big data ,  mongodb","Job Description
-Industry Type: IT Services & Consulting
-Department: Engineering - Software & QA
-Employment Type: Full Time, Permanent
-Role Category: Software Development
-Education : Any Graduate
-Responsibilities
-Write effective, scalable code
-Develop back-end components to improve responsiveness and overall performance
-Integrate user-facing elements into applications
-Test and debug programs
-Implement security and data protection solutions
-Assess and prioritize feature requests
-Coordinate with internal teams to understand user requirements and provide technical solutions.
-Requirements
-0-2 year Work experience as a Python Developer
-Expertise in at least one popular Python framework (like Django, Flask or Pyramid)
-Expertise in at least one popular database (MySQL, MongoDB, SQLite)
-knowledge on Pandas and Numpy in Python
-Design and develop AI models to meet project requirements
-Convert AI/ML models into APIs that other developers can use
-Perform statistical analysis on big data sets
-Knowledge of object-relational mapping (ORM)
-Able to integrate multiple data sources and databases into one system
-Familiarity with front-end technologies (like JavaScript and HTML5)
-Familiarity with code versioning tools such as Git, SVN
-Advanced knowledge of statistical and algorithmic models as well as of fundamental mathematical concepts, such as linear algebra and probability
-Work with other machine learning engineers, data engineers, and AI engineers to develop machine learning models
-Team spirit
-Good problem-solving skills
+Cybage Software Pvt Ltd,Python Developer,4 - 7 yrs,"Gandhinagar,  Hyderabad/Secunderabad,  Pune","python ,html5,javascript,nosql,docker,django,software developer,mongodb","Job Description
+Experience: 4  Years
+The key aspects of this role include:
+Design, build, and maintain scalable applications using Python.
+Contribute to the entire implementation process including driving the definition of improvements based on business need and architectural improvements.
+Act as a subject matter expert for Application Software developers and Engineers.
+Handle server-side code for a production platform and contribute to new features
+To be the right fit, you'll need:
+More than 4  years of experience as a software developer in Python, with knowledge of at least one Python web framework such as Django, Flask, etc.
+Good understanding of common design patterns and architecture principles to design reliable and Scalable applications
+Strong communication skills
+Knowledge of databases line NoSQL or MongoDB
+Good to have AWS and Docker or Web services
+Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3
 Job Function: IT Software : Software Products & Services
-Industry: Consulting Services
+Industry: Software Services,  Internet/Dot com/ISP
 Specialization: Software Engineer
 Qualification: Any Graduate
 Employment Type: Full Time
