@@ -17,7 +17,7 @@ def write_to_csv(job_list):
                 "description",
             ]
             writer.writerow(header)
-            for i in range(1, (len(job_lists) + 1)):
+            for i in range(1, (len(job_list) + 1)):
                 new_row = []
                 new_row.append(job_lists[i]["company"])
                 new_row.append(job_lists[i]["job"])
