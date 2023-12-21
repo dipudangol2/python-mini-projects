@@ -6,3 +6,5 @@ web-scraping/*.json
 web-scraping/*.csv
 web-scraping/*/*.json
 web-scraping/*/*.csv
+web-scraping/*/*.xlsx
+__pycache__

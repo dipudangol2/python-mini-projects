@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 
 
 
+
+
 def get_weather_data(url, months, year):
     all_data = {}
     headers = {
@@ -67,3 +69,27 @@ def get_weather_data(url, months, year):
         }
         all_data[i] = info_dict
     return all_data
+
+
+
+def write_to_xlsx(weather_data:dict,wb,ws,header_columns):
+    for col_num, header in enumerate(header_columns, start=1):
+        ws.cell(row=1, column=col_num, value=header)
+    for i in range(0, len(weather_data)):
+        data_list = []
+        data_list.append(
+            f"{weather_data[i]['date']['day_name']}, {weather_data[i]['date']['day'] } {weather_data[i]['date']['month']} {weather_data[i]['date']['year']}"
+        )
+        data_list.append(f"{weather_data[i]['temp']['min']}")
+        data_list.append(f"{weather_data[i]['temp']['max']}")
+        data_list.append(f"{weather_data[i]['precipitation']}")
+        data_list.append(f"{weather_data[i]['phrase']}")
+        more = ""
+        for key in weather_data[i]['panel-items'].keys():
+            more +=f'{weather_data[i]['panel-items'][key]} \n'
+        data_list.append(more)
+        for col_num, data in enumerate(data_list, start=1):
+            ws.cell(row=i + 2, column=col_num, value=data)
+
+
+    wb.save("weather_data.xlsx")
